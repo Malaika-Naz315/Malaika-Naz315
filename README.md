@@ -1,6 +1,6 @@
 # From notebook to running system.
 # Hi, I'm Malaika Naz
-Hi, I'm Malaika Naz, an AI student at COMSATS University Islamabad, Attock Campus, graduating in 2027. I like the part of AI that comes after the notebook: the API, the database, the dashboard, and everything that makes a model usable.
+An AI student at COMSATS University Islamabad, Attock Campus, graduating in 2027. I like the part of AI that comes after the notebook: the API, the database, the dashboard, and everything that makes a model usable.
 
 ## Projects
 
