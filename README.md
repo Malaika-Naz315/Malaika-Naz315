@@ -1,10 +1,6 @@
+# From notebook to running system.
 # Hi, I'm Malaika Naz
-
-I'm an AI student at COMSATS University Islamabad, Attock Campus, graduating in 2027. I'm currently seeking an AI/ML internship or entry-level role.
-
-This year I did three internships. At RezinX I worked on machine learning and LLM evaluation, at Ezitech I built two projects (both below), and at WS Technologies I spent three weeks in business sales to see how clients think.
-
-Right now I'm learning Docker and DevOps, so the things I build can run somewhere other than my own laptop.
+Hi, I'm Malaika Naz, an AI student at COMSATS University Islamabad, Attock Campus, graduating in 2027. I like the part of AI that comes after the notebook: the API, the database, the dashboard, and everything that makes a model usable.
 
 ## Projects
 
